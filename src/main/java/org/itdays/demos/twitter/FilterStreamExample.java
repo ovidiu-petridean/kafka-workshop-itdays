@@ -70,8 +70,8 @@ public class FilterStreamExample {
 
   public static void main(String[] args) {
     try {
-      FilterStreamExample.run("hIjSRdv6WMlSetmTMdN5sdJdz", "4x3hhvux1UPzvrOprUhPGYSPr8lc80gQKx0GAZesx0WTNiw7dZ",
-              "730361888014479360-JWBRI7GvFjFvFGRIkwtDZDUsbB9epoW", "8dopHoNlqgEBNcoK1NBjSQG3BXZYUzL4RnOq9pWv3G6xt");
+      FilterStreamExample.run("", "",
+              "", "");
     } catch (InterruptedException | IOException e) {
       System.out.println(e);
     }
